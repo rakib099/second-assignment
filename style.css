@@ -1,3 +1,34 @@
-p{
-    color: aqua;
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1{
+    font-size: 50px;
+}
+
+h3{
+    font-size: 25px;
+}
+.top-left-title{
+    margin-left: 72px;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 80px;
+}
+.half-width{
+    width: 50%;
+    padding: 5%;
+}
+.link-button{
+    text-decoration: none;
+    font-weight: 700;
+    background-color: #E02C6D;
+    color: white;
+    padding: 10px 30px;
+    border-radius: 41px;
+}
+
+.sec1-para{
+    margin-bottom: 40px;
 }
