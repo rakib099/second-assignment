@@ -11,6 +11,7 @@ h3{
 }
 .top-left-title{
     margin-left: 72px;
+    margin-top: 60px;
 }
 .flexible-container{
     display: flex;
