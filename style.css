@@ -15,7 +15,7 @@ h3{
 }
 .flexible-container{
     display: flex;
-    margin-bottom: 80px;
+    /* margin-bottom: 80px; */
 }
 .half-width{
     width: 50%;
@@ -32,4 +32,41 @@ h3{
 
 .sec1-para{
     margin-bottom: 40px;
+}
+
+hr{
+    border: 1px solid #D1D1D1;
+}
+/*-------------------
+    product styles 
+--------------------*/
+.products-container{
+    margin-top: 102px;
+}
+.section-title{
+    text-align: center;
+    color: #3A3A3A;
+    font-size: 28px;
+    margin-bottom: 43px;
+}
+.product-title{
+    color: #18191F;
+}
+.product-price{
+    font-size: 24px;
+}
+.fa-star, .fa-star-half-alt{
+    font-size: 12px;
+}
+
+.fa-star.filled{
+    color: #FB8200;
+}
+.fa-star-half-alt{
+    color: #FB8200;
+}
+.product-para{
+    color: #787885;
+    font-size: 14px;
+    font-weight: 700;
 }
