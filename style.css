@@ -85,3 +85,13 @@ hr{
     font-size: 14px;
     font-weight: 700;
 }
+.link-button2{
+    text-align: right;
+    margin-right: 141px;
+    margin-top: 50px;
+}
+.link-button2 a{
+    text-decoration: none;
+    color: #E02C6D;
+    font-weight: 700;
+}
