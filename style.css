@@ -11,6 +11,9 @@ h1{
     font-size: 50px;
 }
 
+h2{
+    font-size: 40px;
+}
 h3{
     font-size: 25px;
 }
@@ -89,13 +92,17 @@ hr{
     text-align: right;
     margin-right: 141px;
     margin-top: 50px;
+    margin-bottom: 36px;
 }
 .link-button2 a{
     text-decoration: none;
     color: #E02C6D;
     font-weight: 700;
 }
-
+/* Section-3 styles */
+.addon-img{
+    width: 90%;
+}
 /* footer styles */
 .footer{
     background-color: rgb(19, 19, 51);
